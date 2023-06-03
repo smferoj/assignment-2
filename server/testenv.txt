@@ -1,0 +1,10 @@
+PORT=8000
+DATABASE=mongodb+srv://smferoj:pinvent123456@cluster0.cdy86ya.mongodb.net/?retryWrites=true&w=majority
+TOKEN_SECRET=544563543523ddfgdfbdffEWRWERWERWR
+JWT_SECRET=gfdgld564564564RWERWRWERWRWERfdgdfewertdfdgdfg
+NODE_ENV="development"
+EMAIL_HOST=smtp-mail.outlook.com
+EMAIL_USER=faisalostad@outlook.com
+EMAIL_PASS='MArt@msb2020'
+
+cb6a80265312db4d365eae42fd4d1e1514c2c45471780d7c64abad14c4d8c551642a532988e4e33ee40c3765cb6a80265312db4d365eae42fd4d1e1514c2c45471780d7c64abad14c4d8c551642a532988e4e33ee40c3765
